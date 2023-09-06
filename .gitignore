@@ -22,6 +22,9 @@ lib-cov
 coverage
 *.lcov
 
+# Nodes for Jest
+node_modules
+
 # nyc test coverage
 .nyc_output
 
